@@ -1,0 +1,7 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,bo_sot,2A202603265,nhóm người đứng đằng xa không tách được
+img_006.jpg,,bo_sot,2A202603265,nhiều xe máy chưa được gán và 1 nhóm người ngồi gần nhau không gán được
+img_013.jpg,,bo_sot,2A202603265,có 1 xe ở góc trên bên phải chưa xác định được xe gì do nằm sát mép ảnh và chỉ lộ 1 ít
+img_014.jpg,,bo_sot,2A202603265,nhiều người ở đằng xa không tách được
+img_023.jpg,,bo_sot,2A202603265,có 1 xe góc trên bên trái chỉ lộ 1 phần nhỏ không detect được xe gì
+img_033.jpg,,bo_sot,2A202603265,1 nhóm xe đậu trên lề đường không tách được
